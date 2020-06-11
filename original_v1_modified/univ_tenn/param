@@ -1,0 +1,23 @@
+#define GX_DIM        512      // focal plane width <--- pixels
+#define GY_DIM        640      // focal plane height <--- pixels
+#define WVDIM  ((int)   1)     // # of wavelengths system matrix calibrated at
+#define XDIM   ((int)   132)     // field stop width <--- pixels
+#define YDIM   ((int)   132)     // field stop height <--- pixels
+#define DX     ((int)    1)
+#define DY     ((int)    1)
+#define GX     ((int) 512)     // system matrix 'gap'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
